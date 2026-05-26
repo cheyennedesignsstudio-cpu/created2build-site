@@ -20,6 +20,8 @@
     "tailwindcss": "latest",
     "@tailwindcss/vite": "latest",
     "postcss": "latest",
-    "autoprefixer": "latest"  
+    "autoprefixer": "latest" 
+    "@tailwindcss/postcss": "latest"
+    
   }
 }
