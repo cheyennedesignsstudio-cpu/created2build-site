@@ -18,6 +18,8 @@
   },
   "devDependencies": {
     "tailwindcss": "latest",
-    "@tailwindcss/vite": "latest"
+    "@tailwindcss/vite": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest"  
   }
 }
